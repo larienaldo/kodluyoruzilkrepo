@@ -7,3 +7,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 * lorem 3
 
 ![çalışma görseli](https://picsum.photos/200/300)
+
+### Proje Amacı
+
+![çalışma görseli](https://picsum.photos/200/300)
